@@ -21,3 +21,7 @@ pip 21.2.4 from ...\Python310\lib\site-packages\pip (python 3.10)
 python3 -m pip install --user tcod
 
 Partes completas: 0,1
+
+feito até a parte de 
+"libtcod.console_set_char_background(con, x, y, colors.get('dark_ground'), libtcod.BKGND_SET)"
+
