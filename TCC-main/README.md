@@ -25,7 +25,10 @@ Partes completas: 0,1
 feito até a parte de 
 "libtcod.console_set_char_background(con, x, y, colors.get('dark_ground'), libtcod.BKGND_SET)"
 https://afgameassets.itch.io/pixel-art-rpg-vfx
+
 https://scracho.itch.io/light-weapons-rework
+
 https://ventilatore.itch.io/the-fantasy-tileset-castles-and-fortresses
+
 https://pine-druid.itch.io/damp-dungeon-tileset-and-sprites
 
